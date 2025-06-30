@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zoom-attendance-tracker-464511",
+  "private_key_id": "5088db5b5b73090d5e6feaed4ffd78a9b31714d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC22mjSZ7Wi86Rg\nLc4KldTkybhw5nEB7gRulHuVORaeKnZjBaBEkDkLIzHAi+ZstNh52xAW9nll3erh\nXp0dFINEKm4doGQ4rVDVyIwguY7FapQVc1LLEWp25B0zGTNmRq5QHa0NVyC2cXcV\ny5w96VsrpmLgnW+GzGhJspGjQQtYG4rrGnNY7bNV/5kLbI0CW8QcqMIx5bd9TDeX\nlem2+0whhhbGoGk2GZdj1QPbUapsUUeLWI9Pu5dHH9vfX9e0bJTy9brS4BI2aqbW\nRLYvg2d7w7KaHkqvugvbBmOM163vIla2hHDozuaNK1iuU2qN2S9+p+MxqQOjHdmG\nSulI/zQhAgMBAAECggEAG/my91v4IW/yymc/ooV1brKBFj7fc8rhYTS06qnzEKxQ\n9AnwkQTawV43VqzgymlpxEz0e3rmrGPlM2lZEtGoWqW+NqirJLO5jheyfrA9DG2n\nrdd4x4pI1ltEr2Rv5XozYZ0EtKmLnvYhoNNHun4pHXbFonVb0o0T+JCKMSa6sFY1\nvcYbNbHS37Bupz7OppHfr2zSMz+mWSNMmKkLlN3SGgq5rmhxmKkQ+fKHvGPrZIeL\n/FOol0Ji23u4CJb4FKWqFuXdjLxflBQqeKhvtbbZer2/WGGGHqPwh/pGr3rQMfIk\ndUcOR/kAxeWHRYsCY3wB6RxjjLsfj1XoA/ctf/QbhQKBgQD0D3k6lCt1PjGr/m81\nzaao3op6pV1Ju071vjxiWgIVmdX3f8seA9N5YxgAUcrBOINsTtIXKT7xqkaHciE2\nQJOFP/guiGGWDHnbQfAJBN3MAJUlUUTnvjnGAZq8FzkHYyANvFjHkt1wWWWEYMTR\nqDgcp0bLbNuojbkEwoZX8iTDvQKBgQC/zGXKbpnmlS7KeEtCei9aIeLth13YhIL1\n9QJ8KdRgwbAKNaqSnL5Kmz5GsapNrWM8UUxKg7dsn3UmO2TY54g8E/yMFy1lCiqi\n0pKyQZ4W9oNpIoD+5+zXj5My1jz0lzizs6hz2jp9J+LuYBk/uKbALe4z1NgsfuKm\nFVFLAKFGNQKBgE2lRpo+XX0VZlQjxFnHrYf4FPJj/cPhVYOVHDzmCde5c3skKwjH\nitYJkq83VlwWkKk6glhgBOh5laqtwqcx8DzqVxjmxrUoDvSUi7sy0yV94fVXX6ai\nvFqkVAgXE0uoW6BDFbOYo96EcmmlJ7jT3dYv2bQKU+/R9tTu1jLQlKW5AoGBAL9c\nxELRTyRMvD6u/wf4uL4JCU1MvkmFDNUx+6S+Z3OSTH4jRWi6kvIFKoGGShDuahCI\nXMIL4TqzbkMTB2+Sss6ecl+j0Fr7ZcbGqi7IYV8v3bVMA8BQznHUgl06e97d8mj5\nW50boze0UCreHtMA/P7J1NxKBNWAU8q5gj5/BmnxAoGAVk2Vmy8pi+/KnrLPtQKT\n5xKAFNgQ1xcJfWpP+zVFdOWiZJu9fx7JmW6OIs4RW98xNlfVyXUsmFO1RMWwefx8\n96uUUVG3WxXJiwIP4rZAlRfBoo+RdoRFuk1XQ+avoyUPWH/q4X1Qu3hv027tjoOa\ngf86qqKdOEe1UPPzpHrVxt0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-bot-281@zoom-attendance-tracker-464511.iam.gserviceaccount.com",
+  "client_id": "100557438341914013736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-bot-281%40zoom-attendance-tracker-464511.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
